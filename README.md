@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qobete
 - 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning Spring Framework and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
